@@ -1,0 +1,19 @@
+
+{
+  "name": "muaamar-edu-platform",
+  "version": "1.0.0",
+  "description": "منصة تعليمية متكاملة لتبادل الملازم والاختبارات التفاعلية",
+  "main": "index.html",
+  "scripts": {
+    "start": "npx serve .",
+    "deploy": "gh-pages -d ."
+  },
+  "keywords": [
+    "education",
+    "react",
+    "histology",
+    "learning"
+  ],
+  "author": "Muaamar Hani",
+  "license": "MIT"
+}
